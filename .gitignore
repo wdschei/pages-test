@@ -1,0 +1,32 @@
+# Jekyll
+_site
+.bundle
+.jekyll
+.jekyll-cache
+.jekyll-metadata
+.sass-cache/
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+local/
+classes/
+
+# Gradle bits from: https://github.com/github/gitignore/blob/master/Gradle.gitignore
+.gradle
+build/
+out/
+.gradletasknamecache
+
+# Linux/GIMP
+**/.directory
+
+# Local & Tmp files
+local/
+tmp/
